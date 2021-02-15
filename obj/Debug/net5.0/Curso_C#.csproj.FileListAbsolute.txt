@@ -1,0 +1,16 @@
+C:\Users\lennyalexander\Dropbox\Mi PC (Hermanitos)\Desktop\LENNY\Curso_C#\Ejercicio_1\bin\Debug\net5.0\Curso_C#.exe
+C:\Users\lennyalexander\Dropbox\Mi PC (Hermanitos)\Desktop\LENNY\Curso_C#\Ejercicio_1\bin\Debug\net5.0\Curso_C#.deps.json
+C:\Users\lennyalexander\Dropbox\Mi PC (Hermanitos)\Desktop\LENNY\Curso_C#\Ejercicio_1\bin\Debug\net5.0\Curso_C#.runtimeconfig.json
+C:\Users\lennyalexander\Dropbox\Mi PC (Hermanitos)\Desktop\LENNY\Curso_C#\Ejercicio_1\bin\Debug\net5.0\Curso_C#.runtimeconfig.dev.json
+C:\Users\lennyalexander\Dropbox\Mi PC (Hermanitos)\Desktop\LENNY\Curso_C#\Ejercicio_1\bin\Debug\net5.0\Curso_C#.dll
+C:\Users\lennyalexander\Dropbox\Mi PC (Hermanitos)\Desktop\LENNY\Curso_C#\Ejercicio_1\bin\Debug\net5.0\ref\Curso_C#.dll
+C:\Users\lennyalexander\Dropbox\Mi PC (Hermanitos)\Desktop\LENNY\Curso_C#\Ejercicio_1\bin\Debug\net5.0\Curso_C#.pdb
+C:\Users\lennyalexander\Dropbox\Mi PC (Hermanitos)\Desktop\LENNY\Curso_C#\Ejercicio_1\obj\Debug\net5.0\Curso_C#.csprojAssemblyReference.cache
+C:\Users\lennyalexander\Dropbox\Mi PC (Hermanitos)\Desktop\LENNY\Curso_C#\Ejercicio_1\obj\Debug\net5.0\Curso_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lennyalexander\Dropbox\Mi PC (Hermanitos)\Desktop\LENNY\Curso_C#\Ejercicio_1\obj\Debug\net5.0\Curso_C#.AssemblyInfoInputs.cache
+C:\Users\lennyalexander\Dropbox\Mi PC (Hermanitos)\Desktop\LENNY\Curso_C#\Ejercicio_1\obj\Debug\net5.0\Curso_C#.AssemblyInfo.cs
+C:\Users\lennyalexander\Dropbox\Mi PC (Hermanitos)\Desktop\LENNY\Curso_C#\Ejercicio_1\obj\Debug\net5.0\Curso_C#.csproj.CoreCompileInputs.cache
+C:\Users\lennyalexander\Dropbox\Mi PC (Hermanitos)\Desktop\LENNY\Curso_C#\Ejercicio_1\obj\Debug\net5.0\Curso_C#.dll
+C:\Users\lennyalexander\Dropbox\Mi PC (Hermanitos)\Desktop\LENNY\Curso_C#\Ejercicio_1\obj\Debug\net5.0\ref\Curso_C#.dll
+C:\Users\lennyalexander\Dropbox\Mi PC (Hermanitos)\Desktop\LENNY\Curso_C#\Ejercicio_1\obj\Debug\net5.0\Curso_C#.pdb
+C:\Users\lennyalexander\Dropbox\Mi PC (Hermanitos)\Desktop\LENNY\Curso_C#\Ejercicio_1\obj\Debug\net5.0\Curso_C#.genruntimeconfig.cache
